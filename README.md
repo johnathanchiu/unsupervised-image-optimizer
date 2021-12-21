@@ -7,8 +7,8 @@ This repo is an ongoing personal research project, feel free to contact me if yo
 Paper describes the basis of the work: https://arxiv.org/abs/2112.07207.
 
 ## Usage
-Very simple [For 3-channel color images only! (atm)]  
-Run main.py [-i, image input] [-o, image output]
+**At the moment: For 3-channel (rgb) color images only!!!**  
+Run main.py [-i, image input path] [-o, image output folder path]
 
 ## Dependencies
 
